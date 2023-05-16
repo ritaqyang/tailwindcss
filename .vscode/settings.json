@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/236cc087-1608-4c59-8393-6a7ef3a52b4d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ritaslandingpage",
+    "appService.deploySubpath": "."
+}
